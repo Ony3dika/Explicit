@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(18, 16, 38);
+}
+
+.left{
+    background-color: rgb(25, 22, 44);
+    box-shadow: 1px 1px 19px 10px rgba(0, 0, 0, 0.584);
+}
+
+.wii{
+    width: 2rem;
+    height: 1.9rem;
+}
+
+.wix{
+    width: 4rem;
+    height: 4rem;
+}
+
+.inp{
+    background-color: rgb(25, 22, 44);
+    box-shadow: 1px 1px 19px 10px rgba(0, 0, 0, 0.584);
+    border-radius: 10px;
+    border: none;
+    color: rgb(194, 194, 194);
+    width: 25rem;
+}
+
+.spaz{
+    background-color: rgb(35, 31, 62);
+    color: rgb(194, 194, 194);;
+
+}
+
+.input{
+    background-color: transparent;
+    border: none;
+    color: rgb(194, 194, 194);;
+}
+
+.img{
+    height: 20px;
+    margin-left: 40%;
+}
+
+.new{
+    margin-left: -4%;
+}
+
+.img1{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 100%;
+}
+
+.info{
+    border-radius: 100%;
+    background-color: white;
+    margin-left: -6%
+}
+
+.btnn{
+    background-color: rgb(219, 0, 150);
+    position: absolute;
+    border-radius: 5px;
+    padding: 0.4rem;
+    height: 2rem;
+    color: white;
+    margin-left: 21rem;
+}
+
+.c2{
+    background-color: rgb(25, 22, 44);
+}
+
+.bee{
+    border: 2px solid rgb(90, 69, 139);
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+    background-color: transparent;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.bean{
+    margin-left: 15rem;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+    background-color:rgb(219, 0, 150);
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.feed{
+    margin-top: -3rem;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 1rem;
+    gap: 1rem;
+}
+
+.r1{
+    border-radius: 0.5rem;
+    background-color: rgb(35, 31, 62);
+    color: white;
+}
+
+.head{
+    font-size: 1rem;
+}
+
+.heart{
+    margin-left: 4rem;
+}
+
+.mag{
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+.para{
+    color: rgb(140, 138, 149);
+    font-size: 0.9rem;
+}
+
+
+.beans{
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+    background-color:rgb(219, 0, 150);
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.bees{
+    border: 2px solid rgb(90, 69, 139);
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+    background-color: transparent;
+    font-size: 0.8rem;
+    font-weight: 100;
+}
