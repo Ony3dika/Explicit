@@ -93,6 +93,10 @@
     border: 2px solid transparent;
 }
 
+.bt{
+    margin-left: 1rem00;
+}
+
 .grid{
     display: grid;
     margin-left: 1rem;
@@ -153,7 +157,7 @@
 .stats{
     background-color: rgb(25, 22, 44);
     border-radius: 0.3rem;
-    height: 370px;
+    height: 300px;
     margin-top: 3rem;
 }
 
@@ -164,16 +168,51 @@
     box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.367);
     width: 90%;
     margin-left: 5%;
-    margin-top: 0.7rem;
+    margin-top: 0.5rem;
+    font-size: 15px;
     font-weight: 600;
 }
 
 
 .arty{
-    padding: 0.5rem;
+    padding: 0.1rem;
     border-radius: 0.3rem;
+    font-size: 15px;
     width: 90%;
     margin-left: 5%;
-    margin-top: 0.7rem;
+    margin-top: 0.5rem;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.367);
     font-weight: 600;
 }
+
+.stat{
+    background-color: rgb(25, 22, 44);
+    border-radius: 0.3rem;
+    height: 270px;
+    margin-top: 3rem;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.367);
+}
+
+.jane{
+    height: 40px;
+    border-radius: 100%;
+    margin-left: 1.5rem;
+}
+
+.flow{
+    display: flex;
+    margin-top: 0.5rem;
+}
+
+.btnn{
+    background-color: rgb(219, 0, 150);
+    color: white;
+    margin-left: 25rem;
+    height: 1.8rem;
+    position: absolute;
+    margin-top: 0.1rem;
+    font-size: 13px;
+    font-weight: 500;
+    border-radius: 0.3rem;
+}
+

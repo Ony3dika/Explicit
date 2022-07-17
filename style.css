@@ -1,0 +1,50 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    background-color: rgb(25, 22, 44);
+    color: white; 
+    box-shadow: 1px 5px 10px 10px rgba(0, 0, 0, 0.584);
+    min-height: 100vh;
+}
+
+.two{
+    background-color: rgb(18, 16, 38);
+    color: white; 
+}
+
+.search{
+    width: auto;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    color: white;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.367);
+    border-radius: 1rem;
+    height: 3.5rem;
+    outline: none;
+    border: none;
+    padding-left: 2rem;
+    background-color: rgb(25, 22, 44);
+}
+
+.bell{
+    height: 25px;
+    width: 50px;
+    margin-top: 2rem;
+}
+
+.olly{
+    height: 45px;
+    width: 70px;
+    margin-top: 1.5rem;
+    border-radius: 100%;
+}
+
+.wee{
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-top: 1.5rem;
+}
