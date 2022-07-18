@@ -134,3 +134,65 @@
     margin-top: 3rem;
     margin-left: .4rem;
 }
+
+.num{
+    border-radius: 0.3rem;
+    background-color: rgb(25, 22, 44);
+    box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.584);
+    color: rgb(255, 255, 255);
+}
+
+.art{
+    background-color: rgb(35, 31, 62);
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.367);
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 0.3rem;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.arty{
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    font-size: 15px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 0.3rem;
+    font-weight: 600;
+}
+
+.spa{
+    position: absolute;
+    margin-left: 250px;
+    display: block;
+    margin-top: -1.5rem;
+}
+
+
+.jane{
+    height: 40px;
+    border-radius: 100%;
+    margin-left: 1.5rem;
+}
+
+.flow{
+    display: flex;
+    margin-top: 0.5rem;
+}
+
+.btnn{
+    background-color: rgb(219, 0, 150);
+    color: white;
+    margin-left: 250px;
+    display: block;
+    height: 1.8rem;
+    position: absolute;
+    margin-top: 0.1rem;
+    font-size: 13px;
+    font-weight: 500;
+    border-radius: 0.3rem;
+}
+
